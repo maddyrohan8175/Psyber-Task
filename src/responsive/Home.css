@@ -1,0 +1,108 @@
+@media (max-width: 768px) {
+    .box2 {
+        flex-direction: column;
+        height: 700px !important;
+        padding: 1rem;
+
+    }
+
+    .box2>div {
+        width: 100%;
+        padding: 1.5rem;
+        margin-top: 1rem;
+    }
+
+    .box2 h1 {
+        font-size: 1.25rem;
+    }
+
+    .box2 p {
+        font-size: 0.875rem;
+    }
+
+    .box2 a {
+        font-size: 0.875rem;
+    }
+
+    .box3 {
+        flex-direction: column;
+        height: 260rem !important;
+    }
+
+    .box3>div {
+        width: 100% !important;
+        height: 222rem !important;
+    }
+
+    .box4 {
+        flex-direction: column;
+        height: 600px !important;
+        gap: 10px !important;
+        padding: 20px 0px;
+    }
+
+    .box4>div {
+        width: 100% !important;
+    }
+
+    .home {
+        top: 390rem !important;
+        width: 200px !important;
+    }
+
+    .box5 {
+        display: flex;
+        flex-direction: column;
+        left: 25px !important;
+        height: 850px !important;
+    }
+
+    .box6 {
+        top: 30px !important;
+        padding: 0px !important;
+        left: 120px !important;
+    }
+
+    .box6 img {
+        width: 100px !important;
+        margin-left: 45px;
+    }
+
+    .box6 h1 {
+        font-size: 25px;
+        line-height: 25px;
+        ;
+        text-align: center;
+    }
+
+    .box7 {
+        top: 150px;
+        width: 100% !important;
+        height: 300px !important;
+        border-radius: 20px !important;
+    }
+
+    .box8 {
+        top: 400px !important;
+        width: 80% !important;
+        right: 40px !important
+    }
+
+    .box9 {
+        top: 620px !important;
+        width: 80% !important;
+        right: 40px !important
+    }
+    .box10{
+        margin-top: 15px;
+    }
+    .box11{
+        flex-direction: column;
+        margin-top: 10px;
+        height: 800px !important;
+    }
+    .box11 > div {
+        width: 95%;
+        padding: 0px 5px;
+    }
+}
